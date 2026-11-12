@@ -1,0 +1,1 @@
+Place permanent uniform images in this folder. The upload controls on uniforms.html create temporary browser previews; to keep images in the site, copy them here and set the corresponding img src in uniforms.html.
